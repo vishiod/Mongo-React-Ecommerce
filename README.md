@@ -12,4 +12,6 @@ to add products in database go to http://localhost:3000/add
 
 Rest all APIs can be navigated through [http://localhost:3000]
 
-PLease make sure mongo db is running on [mongodb://localhost:27017/]
+Please make sure mongo db is running on [mongodb://localhost:27017/]
+
+And also make sure port numbers 3000 and 8000 are not already occupied
