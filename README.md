@@ -1,8 +1,6 @@
 Clone the repo and run the command `npm install`
 
-cd to the folder src/backend and run the `npm install` command again
-
-now in this src/backend folder run the command `node index.js`
+cd to src/backend folder run the command `node index.js`
 
 now in the main folder or the root directory run the command`npm start`
 
@@ -10,3 +8,8 @@ Runs the app in the development mode.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+to add products in database go to http://localhost:3000/add
+
+Rest all APIs can be navigated through [http://localhost:3000]
+
+PLease make sure mongo db is running on [mongodb://localhost:27017/]
