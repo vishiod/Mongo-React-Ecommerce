@@ -1,14 +1,8 @@
-# Getting Started with Create React App
+Clone the repo and run the command `npm install`
+cd to the folder src/backend and run the `npm install` command again
+now in this src/backend folder run the command node `index.js`
+now in the main folder or the root directory run the command`npm start`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Check it out at https://react-e-commerce-test.netlify.app/
